@@ -1,0 +1,27 @@
+#lbl1 {
+    font-size: 10em;
+    font-family: Helvetica, Arial, sans-serif;
+    color: aqua;
+    display: block;
+    border: solid 0.1em;
+    text-align: center;
+
+}
+
+#myDiv{
+    text-align: center;
+
+}
+.btns{
+    padding: 20px 30px;
+    border-radius: 20px;
+    font-size: 1.3em;
+    color: rgb(253, 250, 252);
+    background-color: hsl(274, 85%, 38%);
+    cursor: pointer;
+    transition: background-color 0.25s;
+}
+
+.btns:hover{
+    background-color: rgb(54, 3, 102);
+}
